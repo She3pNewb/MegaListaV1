@@ -1,0 +1,27 @@
+html,body{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: black;
+}
+h1{
+    color:darkred;
+    text-align: center;
+}
+h2{
+    color:darkred;
+    text-align: center;
+}
+li{
+    color:red;
+    text-align: center;
+}
+p{
+    color:purple;
+    text-align: center;
+}
+ul {
+    display:table;
+    margin: 2 auto;
+  }
